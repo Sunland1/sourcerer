@@ -1,3 +1,7 @@
+# Installation
+Don't forget the npm install :) 
+In folder src create .token.json like this => {"access_token" : your_github_token}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
